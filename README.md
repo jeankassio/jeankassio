@@ -39,11 +39,9 @@
 ![WAN](https://img.shields.io/badge/WAN-AI%20Video-0057FF?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-GPU%20Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
-
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Model Optimization](https://img.shields.io/badge/Model-Optimization-FF6F00?style=for-the-badge&logoColor=white)
 ![GPU Optimization](https://img.shields.io/badge/GPU-Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 ![AI Workflow Engineering](https://img.shields.io/badge/AI%20Workflow-Engineering-00BFA6?style=for-the-badge&logoColor=white)
 
 
